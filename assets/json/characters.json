@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Liana",
+    "role": "Main Character",
+    "page": "liana.html",
+    "image": "assets/images/Liana.png"
+  },
+  {
+    "name": "Alexa",
+    "role": "Main Character",
+    "page": "alexa.html",
+    "image": "assets/images/Alexa.png"
+  },
+  {
+    "name": "Melody",
+    "role": "Main Character (Muse)",
+    "page": "melody.html",
+    "image": "assets/images/Melody.png"
+  },
+  {
+    "name": "Dori",
+    "role": "Supporting Character (Muse)",
+    "page": "dori.html",
+    "image": "assets/images/Dori.png"
+  },
+  {
+    "name": "Phaedra",
+    "role": "Supporting Character (Muse)",
+    "page": "phaedra.html",
+    "image": "assets/images/Phaedra.png"
+  },
+  {
+    "name": "Lydia",
+    "role": "Main Villain",
+    "page": "lydia.html",
+    "image": "assets/images/Lydia.png"
+  },
+  {
+    "name": "Slyder",
+    "role": "Villain",
+    "page": "slyder.html",
+    "image": "assets/images/Slyder.png"
+  },
+  {
+    "name": "Jeremy",
+    "role": "Supporting Character",
+    "page": "jeremy.html",
+    "image": "assets/images/Jeremy.png"
+  },
+  {
+    "name": "Ian",
+    "role": "Supporting Character",
+    "page": "ian.html",
+    "image": "assets/images/Ian.png"
+  },
+  {
+    "name": "Sparkles",
+    "role": "Supporting Character (Pet)",
+    "page": "sparkles.html",
+    "image": "assets/images/Sparkles.png"
+  },
+  {
+    "name": "Lily",
+    "role": "Supporting Character (Pet)",
+    "page": "lily.html",
+    "image": "assets/images/Lily.png"
+  },
+  {
+    "name": "Stacie",
+    "role": "Supporting Character",
+    "page": "stacie.html",
+    "image": "assets/images/Stacie.png"
+  }
+]
